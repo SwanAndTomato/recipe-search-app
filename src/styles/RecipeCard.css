@@ -1,0 +1,23 @@
+/* RecipeCard.css */
+.recipe-card {
+    background-color: beige;
+    border: 2px solid brown;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .recipe-card h3 {
+    color: brown;
+  }
+  
+  .recipe-card p {
+    color: brown;
+  }
+  
+  .recipe-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  

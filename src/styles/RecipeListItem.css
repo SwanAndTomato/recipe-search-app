@@ -1,0 +1,25 @@
+/* RecipeListItem.css */
+.recipe-list-item {
+    background-color: beige;
+    border: 2px solid brown;
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+  }
+  
+  .recipe-list-item:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+  }
+  
+  .recipe-list-item h3 {
+    color: brown;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-list-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
