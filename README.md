@@ -1,4 +1,4 @@
-#Recipe Fetch App
+# Recipe Fetch App
 
 ## Instructions
 - Open terminal within recipe-search-app directory
